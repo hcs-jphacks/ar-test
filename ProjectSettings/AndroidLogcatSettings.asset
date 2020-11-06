@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "0248eb5f59644395",
         "name": "com.DefaultCompany.ARWatcher",
-        "processId": 4224,
+        "processId": 24294,
         "exited": true
     },
     "m_SelectedPriority": 0,
@@ -36,6 +36,42 @@
             "deviceId": "0248eb5f59644395",
             "name": "com.DefaultCompany.ARWatcher",
             "processId": 4224,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 8655,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 10077,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 25080,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 8275,
+            "exited": false
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 10454,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 24294,
             "exited": true
         }
     ],
