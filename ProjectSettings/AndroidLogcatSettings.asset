@@ -3,10 +3,10 @@
     "m_SelectedPackage": {
         "deviceId": "0248eb5f59644395",
         "name": "com.DefaultCompany.ARWatcher",
-        "processId": 6672,
+        "processId": 30276,
         "exited": true
     },
-    "m_SelectedPriority": 0,
+    "m_SelectedPriority": 4,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "0248eb5f59644395",
@@ -139,6 +139,60 @@
             "name": "com.DefaultCompany.ARWatcher",
             "processId": 6672,
             "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 8289,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 9893,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 12146,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 14679,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 17429,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 19741,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 23514,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 25776,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 30276,
+            "exited": true
         }
     ],
     "m_Tags": {
@@ -192,6 +246,6 @@
         "Behavior": 1
     },
     "m_Filter": "",
-    "m_FilterIsRegularExpression": false,
+    "m_FilterIsRegularExpression": true,
     "m_SymbolPaths": []
 }
