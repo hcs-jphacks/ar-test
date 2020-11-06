@@ -3,8 +3,8 @@
     "m_SelectedPackage": {
         "deviceId": "0248eb5f59644395",
         "name": "com.DefaultCompany.ARWatcher",
-        "processId": 28771,
-        "exited": false
+        "processId": 8038,
+        "exited": true
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
@@ -49,6 +49,48 @@
             "name": "com.DefaultCompany.ARWatcher",
             "processId": 28771,
             "exited": false
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 29977,
+            "exited": false
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 30980,
+            "exited": false
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 32208,
+            "exited": false
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 968,
+            "exited": false
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 3835,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 5233,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.DefaultCompany.ARWatcher",
+            "processId": 8038,
+            "exited": true
         }
     ],
     "m_Tags": {

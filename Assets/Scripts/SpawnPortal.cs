@@ -28,7 +28,7 @@ public class SpawnPortal : MonoBehaviour
         return false;
     }
 
-    void Awake()
+    void Start()
     {
         raycastManager = GetComponent<ARRaycastManager>();
     }
