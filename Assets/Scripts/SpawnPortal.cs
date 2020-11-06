@@ -8,6 +8,9 @@ public class SpawnPortal : MonoBehaviour
     [SerializeField]
     private GameObject objectPrefab;
 
+    [SerializeField]
+    private Camera arCamera;
+
     ARRaycastManager raycastManager;
     List<ARRaycastHit> hitResults = new List<ARRaycastHit>();
 
@@ -43,12 +46,24 @@ public class SpawnPortal : MonoBehaviour
 
             if (spawnedObject == null)
             {
-                spawnedObject = Instantiate(objectPrefab, hitResults[0].pose.position, Quaternion.identity);
+                // position、rotationを設定
+                hitPose.position.y = hitPose.position.y - 1;
+                var rotation = Quaternion.identity;
+                rotation.y = arCamera.transform.rotation.y;
+
+                // ポータルPrefabのインスタンスをspawnedObjectに代入
+                spawnedObject = Instantiate(objectPrefab, hitPose.position, rotation);
             }
             else
             {
+                // positionの再設定
+                hitPose.position.y = hitPose.position.y - 1;
                 spawnedObject.transform.position = hitPose.position;
-                spawnedObject.transform.rotation = Quaternion.identity;
+
+                // rotationの再設定
+                var rotation = Quaternion.identity;
+                rotation.y = arCamera.transform.rotation.y;
+                spawnedObject.transform.rotation = rotation;
             }
         }
     }

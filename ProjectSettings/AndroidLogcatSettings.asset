@@ -3,196 +3,52 @@
     "m_SelectedPackage": {
         "deviceId": "0248eb5f59644395",
         "name": "com.DefaultCompany.ARWatcher",
-        "processId": 30276,
-        "exited": true
+        "processId": 28771,
+        "exited": false
     },
-    "m_SelectedPriority": 4,
+    "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "0248eb5f59644395",
             "name": "com.DefaultCompany.ARWatcher",
-            "processId": 26534,
+            "processId": 18650,
             "exited": true
         },
         {
             "deviceId": "0248eb5f59644395",
             "name": "com.DefaultCompany.ARWatcher",
-            "processId": 28854,
+            "processId": 21720,
             "exited": true
         },
         {
             "deviceId": "0248eb5f59644395",
             "name": "com.DefaultCompany.ARWatcher",
-            "processId": 32176,
+            "processId": 24817,
+            "exited": true
+        },
+        {
+            "deviceId": "0248eb5f59644395",
+            "name": "com.google.android.googlequicksearchbox",
+            "processId": 5109,
             "exited": true
         },
         {
             "deviceId": "0248eb5f59644395",
             "name": "com.DefaultCompany.ARWatcher",
-            "processId": 1748,
+            "processId": 26634,
             "exited": true
         },
         {
             "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 4224,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 8655,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 10077,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 25080,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 8275,
+            "name": "com.google.android.googlequicksearchbox",
+            "processId": 27585,
             "exited": false
         },
         {
             "deviceId": "0248eb5f59644395",
             "name": "com.DefaultCompany.ARWatcher",
-            "processId": 10454,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 24294,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 23046,
+            "processId": 28771,
             "exited": false
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 28637,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 29756,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 30368,
-            "exited": false
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 31314,
-            "exited": false
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 15605,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 19006,
-            "exited": false
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 20540,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 25613,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 31494,
-            "exited": false
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 6672,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 8289,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 9893,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 12146,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 14679,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 17429,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 19741,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 23514,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 25776,
-            "exited": true
-        },
-        {
-            "deviceId": "0248eb5f59644395",
-            "name": "com.DefaultCompany.ARWatcher",
-            "processId": 30276,
-            "exited": true
         }
     ],
     "m_Tags": {
@@ -228,7 +84,7 @@
         ]
     },
     "m_MemoryViewerState": {
-        "MemoryWindowHeight": 300.0,
+        "MemoryWindowHeight": 255.0,
         "MemoryWindowWidth": 170.0,
         "MemoryTypeEnabled": [
             true,

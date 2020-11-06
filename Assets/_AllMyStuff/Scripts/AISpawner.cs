@@ -114,7 +114,7 @@ public class AISpawner : MonoBehaviour
                 if (tempGroup.GetComponentInChildren<Transform>().childCount < AIObject[i].maxAI)
                 {
                     //spawn random number of NPCs from 0 to Max Spawn Amount
-                    for (int y = 0; y < Random.Range(0, AIObject[i].spawnAmount); y++)
+                    for (int y = 0; y < 1; y++)
                     {
                         //get random rotation  //Quaternion = 3次元物理回転をエンコードするために使用されるベクトルを表す
                         //Quaternion.Euler = z軸を中心にz度　y軸を中心にy度　x軸を中心にx度回転する
