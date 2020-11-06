@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TouchToPlaceObject.unity
+    guid: 7daee57a91b5c404887548fcebcd8dbf
+  - enabled: 1
+    path: Assets/Scenes/PortalTest.unity
+    guid: 27cad159b5ffbb84bab29077493e1a79
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: bb7340070917bc74881e59dda1265db1, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: acb63aa8d5763104e8b85420d3ebf20e, type: 2}
